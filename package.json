@@ -1,0 +1,24 @@
+{
+  "name": "champions-league-api",
+  "version": "1.0.0",
+  "description": "API eficiente para acessar e manipular dados da Champions League (equipes, jogadores, partidas, classificações) utilizando Node.js, Express e SQLite.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "champions-league",
+    "api",
+    "express",
+    "sqlite",
+    "futebol",
+    "estatísticas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "ejs": "^3.1.9"
+  }
+}
